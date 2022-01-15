@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sahil Kumar
+- 👀 I’m interested in creating stuffs
+- 🌱 I’m currently learning kafka, aws and terraform
+- 📫 How to reach me : krsahil799@gmail.com
